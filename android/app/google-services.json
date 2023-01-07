@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "780766243544",
+    "firebase_url": "https://bookstore-c54ae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bookstore-c54ae",
+    "storage_bucket": "bookstore-c54ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780766243544:android:980fd19568526912ea85ad",
+        "android_client_info": {
+          "package_name": "bookstore.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780766243544-659hcno8svlqhfs9d741rfm695puauc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7GovrNH7n-tFidIewd0S5XLhNubG7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780766243544-659hcno8svlqhfs9d741rfm695puauc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780766243544-n6n4p6m8iujksiinvouq68r0e05it27n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780766243544:android:8ea17fd43e4270c3ea85ad",
+        "android_client_info": {
+          "package_name": "com.example.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780766243544-659hcno8svlqhfs9d741rfm695puauc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7GovrNH7n-tFidIewd0S5XLhNubG7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780766243544-659hcno8svlqhfs9d741rfm695puauc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780766243544-n6n4p6m8iujksiinvouq68r0e05it27n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780766243544:android:9a8ace505c9525d5ea85ad",
+        "android_client_info": {
+          "package_name": "com.example.bookstore_app_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780766243544-659hcno8svlqhfs9d741rfm695puauc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7GovrNH7n-tFidIewd0S5XLhNubG7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780766243544-659hcno8svlqhfs9d741rfm695puauc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780766243544-n6n4p6m8iujksiinvouq68r0e05it27n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780766243544:android:7fdeb03a6d7b8109ea85ad",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780766243544-659hcno8svlqhfs9d741rfm695puauc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7GovrNH7n-tFidIewd0S5XLhNubG7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780766243544-659hcno8svlqhfs9d741rfm695puauc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780766243544-n6n4p6m8iujksiinvouq68r0e05it27n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
